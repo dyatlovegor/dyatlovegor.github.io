@@ -1,0 +1,14 @@
+# Font Binaries
+*.otf
+*.ttf
+*.exe
+*.zip
+*.pfa
+*.inf
+*.afm
+*.pfm
+*.fpr
+*.bak
+#Binary Folders
+OTF/
+TTF/
